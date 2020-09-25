@@ -21,6 +21,8 @@ body{
 	display: flex;
 	color: white;
 	font-family: 'Roboto Mono', monospace;
+	/* justify-content: space-around; */
+	margin-right: 20px;
 }
 .right_side{
 	display: flex;
